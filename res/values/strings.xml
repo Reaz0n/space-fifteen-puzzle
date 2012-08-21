@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Космо Пятнашки</string>
+    <string name="hello_world">Космо Пятнашки</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Космо Пятнашки</string>
+
+</resources>
